@@ -1,0 +1,22 @@
+# CoreJava-T6
+# Day 1 Assignment:
+##  1. Good Morning, Good Afternoon, Good Evening, Good Night  --> Input : 11,  Output: Good Morning
+##  2. Print Respective Week Name based on Input; 1-Sunday, 2-Monday, 3-Tuesday
+##  3. Student Percentage   -> First Class with Distinction, First Class, Second Class, Third Class, Fail  
+##  4. ATM Program. input --> pin, AvailableBalance, Withdrawal Amount
+##     a. Entered Pin is Invalid
+##     b. Your Transaction is SUccessful, Available balance in your Account is: 100
+##     c. Transaction Declained...!!, Insuffecient Funds in your Account.
+
+ 
+##  Day 7 Assignment:
+##  HOM-> HOME Phone Number, "OFF" -> Mobile Phone, ", "WRK" -> Office Phone, "FAX" -> Fax Number
+##  10 -> SAvings Account, 11 -> Remix Savings, 20 -> Currrent Account, 21-> Multi Currency Account, 22-> Foreign Currency Current Account,       30-> FIxed Deposit Account
+
+
+##  Day 8 Assignments:
+##  Patterns:
+##   D, F, L, O, S
+
+##   Day 9 Assigments
+##   H, J, U, B, E, 3,7,9
